@@ -1,0 +1,38 @@
+# 🌤️ Enhanced Weather App
+
+An **interactive, feature-rich weather application** built with **HTML, CSS, and Vanilla JavaScript**.  
+It provides **real-time weather data**, a **5-day forecast**, **search history**, **geolocation detection**, and a **Celsius/Fahrenheit toggle**. The app is **deployed on GitHub Pages** for easy access.  
+
+
+## **Live Demo**
+Check out the live app here:  
+[**Open Enhanced Weather App**](YOUR_GITHUB_PAGES_LINK_HERE)  
+
+
+## **Features**
+- 🌍 **Geolocation Detection:** Automatically detects your current city.  
+- 📅 **5-Day Forecast:** View weather for the next 5 days, including temperature, humidity, wind, and weather icons.  
+- 🔄 **Celsius/Fahrenheit Toggle:** Switch temperature units easily.  
+- 🔍 **Search History:** Stores the last 5 searched cities for quick access.  
+- 💾 **Persistent Storage:** Search history saved using **localStorage**.  
+- 🎨 **Improved UI/UX:** Responsive design, clean layout, and subtle animations.  
+- 📦 **Export Weather Data (Optional):** Can export JSON of current weather info.
+
+
+## Usage
+
+1. Enter a city in the search box **or allow geolocation detection**.  
+2. View the **current weather** and **5-day forecast**.  
+3. Toggle between **Celsius and Fahrenheit**.  
+4. Click previous searches in the **search history** to quickly view the weather again.  
+5. Refreshing the page will **retain search history** using localStorage.  
+
+## Technologies Used
+
+- HTML5  
+- CSS3 (Flexbox, Grid, Animations)  
+- JavaScript (ES6+)  
+- OpenWeatherMap API  
+- LocalStorage for persistent search history  
+- GitHub Pages for deployment
+
