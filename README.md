@@ -6,7 +6,7 @@ It provides **real-time weather data**, a **5-day forecast**, **search history**
 
 ## **Live Demo**
 Check out the live app here:  
-[**Open Enhanced Weather App**](YOUR_GITHUB_PAGES_LINK_HERE)  
+[**Open Enhanced Weather App**](https://kimaniimmaculate.github.io/Enhanced-Weather-App/)  
 
 
 ## **Features**
@@ -16,7 +16,6 @@ Check out the live app here:
 - 🔍 **Search History:** Stores the last 5 searched cities for quick access.  
 - 💾 **Persistent Storage:** Search history saved using **localStorage**.  
 - 🎨 **Improved UI/UX:** Responsive design, clean layout, and subtle animations.  
-- 📦 **Export Weather Data (Optional):** Can export JSON of current weather info.
 
 
 ## Usage
