@@ -8,8 +8,19 @@ It provides **real-time weather data**, a **5-day forecast**, **search history**
 Check out the live app here:  
 [**Open Enhanced Weather App**](https://kimaniimmaculate.github.io/Enhanced-Weather-App/)  
 
+## Add Your API Key
+
+1. Open `script2.js`.  
+2. Find this line:
+
+```JavaScript
+const API_KEY = 'YOUR_API_KEY';
+```
+3. Replace 'YOUR_API_KEY' with your OpenWeatherMap API key.
+4. You can get a free key by signing up at [**OpenWeatherMap**](https://home.openweathermap.org/api_keys)
 
 ## **Features**
+
 - 🌍 **Geolocation Detection:** Automatically detects your current city.  
 - 📅 **5-Day Forecast:** View weather for the next 5 days, including temperature, humidity, wind, and weather icons.  
 - 🔄 **Celsius/Fahrenheit Toggle:** Switch temperature units easily.  
