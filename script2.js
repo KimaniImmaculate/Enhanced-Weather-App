@@ -3,7 +3,8 @@
    ========================= */
 
 // ----------------- API KEY -----------------
-const API_KEY = '2a71edeb23998fc9993380115e85d598'; 
+//Replace YOUR_API_KEY with the key from OpenWeather 
+const API_KEY = 'YOUR_API_KEY'; 
 
 // ----------------- DOM ELEMENTS -----------------
 const searchBtn = document.getElementById('search-btn');
@@ -171,3 +172,4 @@ window.addEventListener('load', () => {
     showError('Geolocation not supported by your browser');
   }
 });
+
